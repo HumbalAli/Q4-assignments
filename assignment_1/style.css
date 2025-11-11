@@ -91,3 +91,15 @@ main {
     color: white;
     border: 1px solid white;
 }
+
+.icons {
+    margin-top: 50px;
+}
+
+.icons i {
+    font-size: 40px;
+    margin: 0 20px;
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 20px;
+    border-radius: 10px;
+}
